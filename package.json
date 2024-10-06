@@ -1,0 +1,17 @@
+{
+  "name": "selenium_javascript_nokia",
+  "version": "1.0.0",
+  "description": "Performing functional testing with Selenium and JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "geozi",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.25.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
