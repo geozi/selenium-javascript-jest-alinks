@@ -5,11 +5,11 @@
 The project showcases the use of Selenium with JavaScript and Jest for performing functional (clicking) tests on a series of &lt;a> elements.
 
 ### Website[^1]
-The website where the element is located is the https://www.nokia.com/ .
+The website where the elements are located is the https://www.nokia.com/ .
 
-### Web element under test
+### Web element(s) under test
 
-The web element tested was the navbar found on the landing page of the website:
+The web elements tested were a series of &lt;a> links found on the landing page of the website:
 <div align="center">
   <img src="https://github.com/user-attachments/assets/3eba9ca7-2637-44cc-8600-0764e8f9d760">
 </div>
