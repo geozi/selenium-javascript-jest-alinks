@@ -2,15 +2,15 @@
 
 ![Functional Testing Demo App](https://img.shields.io/badge/Demo_project-blue)
 
-### About the project
+## About the project
 
-The project showcases the use of Selenium with JavaScript and Jest for performing functional (clicking) tests on a series of &lt;a> elements.
+The project showcases the use of Selenium with JavaScript and its combination with the Jest testing framework for performing User Interface (UI) tests on a series of &lt;a> elements.
 
-### Website[^1]
+## Website[^1]
 
 The website where the elements are located is the <https://www.nokia.com/> .
 
-### Web element(s) under test
+## Web element(s) under test
 
 The web elements tested were a series of &lt;a> links found on the landing page of the website:
 
@@ -18,9 +18,9 @@ The web elements tested were a series of &lt;a> links found on the landing page 
   <img src="https://github.com/user-attachments/assets/3eba9ca7-2637-44cc-8600-0764e8f9d760">
 </div>
 
-### Dependencies
+## Dependencies
 
-```javascript
+```json
   "dependencies": {
     "selenium-webdriver": "^4.25.0"
   },
